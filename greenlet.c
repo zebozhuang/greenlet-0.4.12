@@ -5,7 +5,7 @@
 #include "greenlet.h"
 #include "structmember.h"
 
-
+/* structmember.h位置: Python/Include/structmember.h */
 /***********************************************************
 
 A PyGreenlet is a range of C stack addresses that must be
